@@ -11,10 +11,10 @@
   </p>
 
   <p>
-    <a href="https://drive.google.com/file/d/1NerV6EGWcJKWK_MRT6o8pCl8yvKEcsAe/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1Mvvna0xU_cz5gW-olH2tXCvIceMYvJ7R/view?usp=drive_link">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
-    <a href="https://www.datascienceportfol.io/mohammedmokhtardatas">
-      <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
+    <a href="https://www.kaggle.com/mohammedmokhtar77">
+      <img src="https://img.shields.io/badge/Kaggle-00307A?style=flat-square&logo=linkfire&logoColor=white%22%20style=%22height:32px;%20object-fit:contain;"/></a>
   </p>
 
   #### 📤 Connect & Competitive Programming
