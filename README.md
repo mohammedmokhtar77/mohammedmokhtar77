@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohammed Mokhtar Ali</h1>
 
-<h2 align="center">AI Engineer | FrontEnd Developer </h2>
+<h2 align="center">AI Engineer & Frontend Developer · Kaggle Master · NLP & Computer Vision · React, Next.js & TypeScript · Scalable & High-Performance AI/Web Apps </h2>
 <br>
 
   <p align="center">
@@ -14,7 +14,7 @@
     <a href="https://drive.google.com/file/d/1Mvvna0xU_cz5gW-olH2tXCvIceMYvJ7R/view?usp=drive_link">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
     <a href="https://www.kaggle.com/mohammedmokhtar77">
-      <img src="https://img.shields.io/badge/Kaggle-00307A?style=flat-square&logo=linkfire&logoColor=white%22%20style=%22height:32px;%20object-fit:contain;"/></a>
+      <img src="https://img.shields.io/badge/Kaggle-00307A?style=flat-square&logo=linkfire&logoColor=white" style=height:32px;object-fit:contain;"/></a>
   </p>
 
   #### 📤 Connect & Competitive Programming
