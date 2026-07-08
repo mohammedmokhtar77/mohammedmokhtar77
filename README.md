@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    <a href="https://drive.google.com/file/d/1Mvvna0xU_cz5gW-olH2tXCvIceMYvJ7R/view?usp=drive_link">
+    <a href="https://drive.google.com/file/d/1pvU8izxkwPz3oJslCUtgNz9nXgqYtGuU/view?usp=sharing">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
     <a href="https://www.kaggle.com/mohammedmokhtar77">
       <img src="https://img.shields.io/badge/Kaggle-00307A?style=flat-square&logo=linkfire&logoColor=white" style=height:32px;object-fit:contain;"/></a>
