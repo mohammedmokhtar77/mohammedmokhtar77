@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohammed Mokhtar Ali</h1>
 
-<h2 align="center">AI Engineer & Frontend Developer · Kaggle Master · NLP & Computer Vision · React, Next.js & TypeScript · Scalable & High-Performance AI/Web Apps </h2>
+<h2 align="center">AI Engineer & Full Stack .NET Developer · Kaggle Master · ASP.NET Core, C#, EF Core & SQL Server · React, Next.js & TypeScript · ML , NLP & Computer Vision · Building Scalable & High-Performance AI/Web Applications </h2>
 <br>
 
   <p align="center">
