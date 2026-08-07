@@ -11,8 +11,10 @@
   </p>
 
   <p>
-    <a href="https://drive.google.com/file/d/1W_bMhKUwVkND2BYxrPCUMop-_np7pZ_d/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1pWE1SS3IOt8QQqCGxkB2G74RWHaS_8Fx/view?usp=sharing">
       <img src="https://img.shields.io/badge/Data Analysis CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
+        <a href="https://drive.google.com/file/d/1ohoUDS1ysloZN74iGiRl5FsU5PTCdw6v/view?usp=sharing">
+      <img src="https://img.shields.io/badge/AI CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
     <a href="https://www.kaggle.com/mohammedmokhtar77">
       <img src="https://img.shields.io/badge/Kaggle-00307A?style=flat-square&logo=linkfire&logoColor=white" style=height:32px;object-fit:contain;"/></a>
   </p>
